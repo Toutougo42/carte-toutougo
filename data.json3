@@ -1,11 +1,13 @@
 {
   "features": [
     {
-      "name": "Lieu 1",
-      "ville": "Paris",
-      "adresse": "10 rue de la Paix",
-      "latitude": 48.8566,
-      "longitude": 2.3522
+      "name": "Kyriad Direct Roanne Hôtel",
+      "ville": "Roanne",
+      "adresse": "38 Rue De Matel",
+      "latitude": "460 538 817,0"
+      "longitude": "40 934 351,0"
+"Type de lieux": "Hôtel"
+"Site internet": "https://direct-roanne.kyriad.com/fr-fr/"
     }
   ]
 }
