@@ -1,3 +1,11 @@
 {
-  "features": []
+  "features": [
+    {
+      "name": "Lieu 1",
+      "ville": "Paris",
+      "adresse": "10 rue de la Paix",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    }
+  ]
 }
